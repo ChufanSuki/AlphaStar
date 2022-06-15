@@ -4,3 +4,6 @@
 `rl.py` - Describes reinforcement learning update.
 `multiagent.py` - Describes AlphaStar league.
 `supervised.py` - Describes supervised learning setup.
+
+## Related Work
+- https://github.com/inoryy/reaver
